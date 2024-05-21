@@ -10,3 +10,5 @@
 #### Codebook can be accessed at: file:///C:/Users/yzh7381/Dropbox/Diabetes/Codebook/USCODE22_LLCP_102523.HTML
 
 #### Data is in an SAS Xport Transport File (.XPT)
+
+### Download the data here: https://www.cdc.gov/brfss/annual_data/2022/files/LLCP2022XPT.zip
