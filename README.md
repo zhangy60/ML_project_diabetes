@@ -9,4 +9,4 @@
 
 #### Codebook can be accessed at: file:///C:/Users/yzh7381/Dropbox/Diabetes/Codebook/USCODE22_LLCP_102523.HTML
 
-#### Data is in a SAS file
+#### Data is in an SAS Xport Transport File (.XPT)
