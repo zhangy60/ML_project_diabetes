@@ -1,5 +1,5 @@
 ### ML project description:
-
+#### The goal of this study is to identify the risk factors for diabetes after the COVID using the national data collected by the Behavioral Risk Factor Surveillance System. Random forest was used to identify the top 15 important features relevant to diabetes. Several artifical neural networks were run and compared based on test accuracy. 
 
 ### Background:
 
