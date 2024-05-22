@@ -9,4 +9,4 @@
 
 #### Codebook can be accessed at: https://www.cdc.gov/brfss/annual_data/2022/zip/codebook22_llcp-v2-508.zip
 
-#### Data is in an SAS Xport Transport File (.XPT), and can be retrieved here: https://www.cdc.gov/brfss/annual_data/2022/files/LLCP2022XPT.zip
+#### Data is in an SAS Xport Transport File (.XPT) and can be retrieved here: https://www.cdc.gov/brfss/annual_data/2022/files/LLCP2022XPT.zip
