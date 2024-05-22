@@ -7,7 +7,7 @@
 
 #### The current data comes from the BRFSS 2022 survey, see https://www.cdc.gov/brfss/annual_data/annual_2022.html 
 
-#### Codebook can be accessed at: file:///C:/Users/yzh7381/Dropbox/Diabetes/Codebook/USCODE22_LLCP_102523.HTML
+#### Codebook can be accessed at: [file:///C:/Users/yzh7381/Dropbox/Diabetes/Codebook/USCODE22_LLCP_102523.HTML](https://www.cdc.gov/brfss/annual_data/2022/pdf/2022-calculated-variables-version4-508.pdf) 
 
 #### Data is in an SAS Xport Transport File (.XPT)
 
